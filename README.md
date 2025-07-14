@@ -4,11 +4,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/dingosin/dingosin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ### 🚀 Sobre mim
 
 Sou um profissional com sólida formação em **Engenharia de Computação** e transição consolidada para a área de **Ciência de Dados**. Tenho experiência prática em:
@@ -68,6 +63,10 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
 - 📧 **Email:** [malcolmwls@gmail.com](mailto:malcolmwls@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/malcolm-wallace-175992287](https://www.linkedin.com/in/malcolm-wallace-175992287/)
 - 🧠 **GitHub:** [github.com/dingosin](https://github.com/dingosin)
+
+<p align="center">
+  <img src="https://github.com/dingosin/dingosin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
