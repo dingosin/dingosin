@@ -55,7 +55,7 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
 
 ### 📌 Repositórios em destaque
 
-- [`analise-dados-experimentos`]([https://github.com/dingosin/analise-dados-saude](https://github.com/dingosin/brincadados) – Análise exploratória com dados fictícios para consolidação de conhecimento. Famoso "baguncinha".
+- [`analise-dados-experimentos`](https://github.com/dingosin/brincadados) – Análise exploratória com dados fictícios para consolidação de conhecimento. Famoso "baguncinha".
 - [`Desafios`](https://github.com/dingosin/desafiodnc) – Desafios impostos em cursos e afins com dados reais/fictícios para aquisição de diplomas.
 
 ---
