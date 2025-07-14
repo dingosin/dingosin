@@ -59,8 +59,6 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
 - [`projeto-machine-learning`](https://github.com/dingosin/projeto-machine-learning) – Projeto de regressão com scikit-learn
 - [`dashboard-pbi`](https://github.com/dingosin/dashboard-pbi) – Dashboard de indicadores em Power BI
 
-> 💡 *Você pode fixar repositórios específicos no topo do perfil indo em "Customize your pins"*
-
 ---
 
 ### 🌐 Vamos nos conectar?
