@@ -20,6 +20,8 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
 
 ---
 
+![snake gif](https://github.com/dingosin/dingosin/blob/output/github-contribution-grid-snake.svg)
+
 ### 🛠️ Habilidades Técnicas
 
 **Linguagens & Bibliotecas**
