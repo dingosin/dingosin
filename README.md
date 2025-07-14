@@ -5,6 +5,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/dingosin/dingosin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 ### 🚀 Sobre mim
 
 Sou um profissional com sólida formação em **Engenharia de Computação** e transição consolidada para a área de **Ciência de Dados**. Tenho experiência prática em:
@@ -19,11 +23,6 @@ Sou um profissional com sólida formação em **Engenharia de Computação** e t
 Busco aplicar soluções orientadas por dados para otimizar processos, gerar insights e apoiar a tomada de decisão em ambientes reais.
 
 ---
-
-<p align="center">
-  <img src="https://github.com/dingosin/dingosin/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 ### 🛠️ Habilidades Técnicas
 
 **Linguagens & Bibliotecas**
