@@ -55,9 +55,8 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
 
 ### 📌 Repositórios em destaque
 
-- [`analise-dados-saude`](https://github.com/dingosin/analise-dados-saude) – Análise exploratória com dados reais do setor público
-- [`projeto-machine-learning`](https://github.com/dingosin/projeto-machine-learning) – Projeto de regressão com scikit-learn
-- [`dashboard-pbi`](https://github.com/dingosin/dashboard-pbi) – Dashboard de indicadores em Power BI
+- [`analise-dados-experimentos`]([https://github.com/dingosin/analise-dados-saude](https://github.com/dingosin/brincadados) – Análise exploratória com dados fictícios para consolidação de conhecimento. Famoso "baguncinha".
+- [`Desafios`](https://github.com/dingosin/desafiodnc) – Desafios impostos em cursos e afins com dados reais/fictícios para aquisição de diplomas.
 
 ---
 
