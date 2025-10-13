@@ -4,6 +4,34 @@
 </p>
 
 ---
+
+### 💼 Projetos Reais e Resultados
+
+- 📊 **Dashboard de Unidade de Saúde (Power BI)**  
+  Criei um dashboard completo com todos os dados de 2024 de uma unidade de saúde, identificando os horários de maior demanda e mensurando a carga de trabalho de cada profissional.  
+  💡 *Resultado:* aumento de **18% na eficiência da agenda do SUS**, reorganizando a disponibilidade de vagas com base em insights da análise.
+
+- 🔮 **Previsão de Consumo de Materiais Clínicos**  
+  Desenvolvi modelos preditivos para estimar gastos e demandas de materiais como gazes e soro fisiológico, a partir do histórico de compras e uso.  
+  💡 *Resultado:* **redução de 7,2% nos gastos**, com diminuição significativa de produtos expirados no almoxarifado.
+
+- 💰 **Gestão de Faturamento e Custos**  
+  Estruturei o processo de aquisição de novos produtos, realizando cotações, aplicando médias e medianas de forma estatisticamente adequada e ajustando preços conforme a inflação.  
+  💡 *Resultado:* decisões mais precisas e resistentes à influência de outliers.
+
+---
+
+### 📚 Treinamentos e Repositórios
+
+Nos meus repositórios do GitHub, você encontrará **todo o treinamento e prática que realizei** para consolidar meu conhecimento em análise e ciência de dados.  
+São projetos reais, desafios e estudos que demonstram minha **evolução prática e técnica** em ferramentas de dados, estatística e machine learning.
+
+Exemplos:
+- [`Analise-dados-experimentos`](https://github.com/dingosin/brincadados) – Análise exploratória com dados fictícios para consolidação de conhecimento (o famoso *baguncinha*).
+- [`Desafiodnc`](https://github.com/dingosin/desafiodnc) – Desafios de cursos e formações em dados (com dados reais e fictícios).
+
+---
+
 ### 🚀 Sobre mim
 
 Sou um profissional com sólida formação em **Engenharia de Computação** e transição consolidada para a área de **Ciência de Dados**. Tenho experiência prática em:
@@ -18,6 +46,7 @@ Sou um profissional com sólida formação em **Engenharia de Computação** e t
 Busco aplicar soluções orientadas por dados para otimizar processos, gerar insights e apoiar a tomada de decisão em ambientes reais.
 
 ---
+
 ### 🛠️ Habilidades Técnicas
 
 **Linguagens & Bibliotecas**
@@ -48,13 +77,6 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dingosin&show_icons=true&theme=tokyonight&hide=prs,issues"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingosin&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-### 📌 Repositórios em destaque
-
-- [`Analise-dados-experimentos`](https://github.com/dingosin/brincadados) – Análise exploratória com dados fictícios para consolidação de conhecimento (o famoso *baguncinha*).
-- [`Desafiodnc`](https://github.com/dingosin/desafiodnc) – Desafios de cursos e formações em dados (com dados reais e fictícios).
 
 ---
 
