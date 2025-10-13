@@ -93,5 +93,5 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
 ---
 
 <p align="center">
-  <i>“Dados são o novo petróleo, mas insights são o novo ouro.”</i>
+  <i>“Não se mede a grandiosidade de uma descoberta sem saber o valor da resposta encontrada.”</i>
 </p>
