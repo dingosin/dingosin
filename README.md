@@ -7,18 +7,21 @@
 
 ### 💼 Projetos Reais e Resultados
 
-- 📊 **Dashboard de Unidade de Saúde (Power BI)**  
+- **Dashboard de Unidade de Saúde (Power BI)**  
   Criei um dashboard completo com todos os dados de 2024 de uma unidade de saúde, identificando os horários de maior demanda e mensurando a carga de trabalho de cada profissional.  
-  💡 *Resultado:* aumento de **18% na eficiência da agenda do SUS**, reorganizando a disponibilidade de vagas com base em insights da análise.
+  *Resultado:* aumento de **18% na eficiência da agenda do SUS**, reorganizando a disponibilidade de vagas com base em insights da análise.
 
-- 🔮 **Previsão de Consumo de Materiais Clínicos**  
+- **Previsão de Consumo de Materiais Clínicos**  
   Desenvolvi modelos preditivos para estimar gastos e demandas de materiais como gazes e soro fisiológico, a partir do histórico de compras e uso.  
-  💡 *Resultado:* **redução de 7,2% nos gastos**, com diminuição significativa de produtos expirados no almoxarifado.
+  *Resultado:* **redução de 7,2% nos gastos**, com diminuição significativa de produtos expirados no almoxarifado.
 
-- 💰 **Gestão de Faturamento e Custos**  
+- **Gestão de Faturamento e Custos**  
   Estruturei o processo de aquisição de novos produtos, realizando cotações, aplicando médias e medianas de forma estatisticamente adequada e ajustando preços conforme a inflação.  
-  💡 *Resultado:* decisões mais precisas e resistentes à influência de outliers.
+  *Resultado:* decisões mais precisas e resistentes à influência de outliers.
 
+- **Aplicativo de gestão de horas suporte dos professores.**
+  Embora extremamente simples, ele serve bem pra automatizar um serviço burocrático que precisa ser feito todo mês e consome muito tempo elaborar o calendário.
+  *Resultado: Mais tempo para organizar meu dia em outros assuntos.*
 ---
 
 ### 📚 Treinamentos e Repositórios
