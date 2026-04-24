@@ -19,7 +19,7 @@
   Estruturei o processo de aquisição de novos produtos, realizando cotações, aplicando médias e medianas de forma estatisticamente adequada e ajustando preços conforme a inflação.  
   *Resultado:* decisões mais precisas e resistentes à influência de outliers.
 
-- **Aplicativo de gestão de horas suporte dos professores.**
+- **Aplicativo de Gestão de Horas Suporte dos Professores.**    
   Embora extremamente simples, ele serve bem pra automatizar um serviço burocrático que precisa ser feito todo mês e consome muito tempo elaborar o calendário.
   *Resultado: Mais tempo para organizar meu dia em outros assuntos.*
 ---
