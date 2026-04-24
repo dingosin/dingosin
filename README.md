@@ -10,6 +10,8 @@
 - **Dashboard de Unidade de Saúde (Power BI)**  
   Criei um dashboard completo com todos os dados de 2024 de uma unidade de saúde, identificando os horários de maior demanda e mensurando a carga de trabalho de cada profissional.  
   *Resultado:* aumento de **18% na eficiência da agenda do SUS**, reorganizando a disponibilidade de vagas com base em insights da análise.
+<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=dingosin&show_icons=true&theme=tokyonight&hide=prs,issues](https://media.licdn.com/dms/image/v2/D4D2DAQGGbr3TBqRiVA/profile-treasury-image-shrink_480_480/B4DZkGjXG4GgAM-/0/1756751557883?e=1777669200&v=beta&t=dxvNa3b-ssGFL-iJIRQUoKk5L7JOSQpzYyv126vejB8)"/>
+  
 
 - **Previsão de Consumo de Materiais Clínicos**  
   Desenvolvi modelos preditivos para estimar gastos e demandas de materiais como gazes e soro fisiológico, a partir do histórico de compras e uso.  
