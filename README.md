@@ -11,7 +11,7 @@
   Criei um dashboard completo com todos os dados de 2024 de uma unidade de saúde, identificando os horários de maior demanda e mensurando a carga de trabalho de cada profissional.  
   *Resultado:* aumento de **18% na eficiência da agenda do SUS**, reorganizando a disponibilidade de vagas com base em insights da análise.
 <img height="180em" src="[https://ibb.co/PZmGcYbS]"/>
-  
+  ![BiSaúde](https://i.ibb.co/zhnVX5Lk/cad001.png)
 
 - **Previsão de Consumo de Materiais Clínicos**  
   Desenvolvi modelos preditivos para estimar gastos e demandas de materiais como gazes e soro fisiológico, a partir do histórico de compras e uso.  
