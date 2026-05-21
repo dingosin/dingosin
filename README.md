@@ -77,15 +77,6 @@ Busco aplicar soluções orientadas por dados para otimizar processos, gerar ins
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dingosin&show_icons=true&theme=tokyonight&hide=prs,issues"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingosin&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### Vamos nos conectar?
 
 - **Email:** [malcolmwls@gmail.com](mailto:malcolmwls@gmail.com)
