@@ -47,6 +47,7 @@ Sou um profissional com sólida formação em **Engenharia de Computação** e t
 - Limpeza e transformação de dados (ETL e data wrangling)
 - Estatística descritiva e inferencial (testes de hipótese, regressão, etc.)
 - SQL e pipelines analíticos
+- VIbe Coding usando Figma e Google Ai Studio, para ganho de perfomance e velocidade no desenvolvimento de programas básicos.
 
 Busco aplicar soluções orientadas por dados para otimizar processos, gerar insights e apoiar a tomada de decisão em ambientes reais.
 
